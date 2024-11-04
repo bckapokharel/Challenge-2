@@ -1,3 +1,9 @@
+/*************************
+Name:Bishika Pokharel
+Challenege 2
+Purpose:The purpose is to test the functionality of the Queue ADT that is implemented in queue.cpp. 
+This file also acts as a test script to verify that the Queue class behaves as expected in both FIFO (First-In-First-Out) and LIFO (Last-In-First-Out) modes.
+**************************/
 #include "queue.h"
 #include <iostream>
 

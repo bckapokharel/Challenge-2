@@ -1,6 +1,10 @@
-/****Name:Bishika Pokharel
-/*****  Challenege 2
-/****  Purpose:The purpose of this program is to provide the implementation of the Queue class defined in queue.h. 
+
+/*************************
+Name:Bishika Pokharel
+Challenege 2
+Purpose:The purpose of this program is to provide the implementation of the Queue class defined in queue.h. 
+**************************/
+
 #include "queue.h"
 #include <iostream>
 
@@ -77,7 +81,7 @@ int Queue::find(int id) const {
     return -1;
 }
 
-// Private helper methods
+// This is a Private helper methods
 void Queue::removeHead() {
     if (!head) return;
     Data* temp = head;

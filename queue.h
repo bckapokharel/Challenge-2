@@ -1,7 +1,10 @@
-/**Name:Bishika Pokharel
-    Challenge 2
-  Purpose:The purpose of this program is to implement a flexible Queue Abstract Data Type (ADT) in C++ that can operate in two different modes: FIFO (First-In-First-Out) and LIFO (Last-In-First-Out). 
-  This queue uses a linked list structure, allowing dynamic memory allocation to handle an unlimited number of elements without a fixed size constraint.
+
+/*************************
+Name:Bishika Pokharel
+Challenge 2
+Purpose:The purpose of this program is to implement a flexible Queue Abstract Data Type (ADT) in C++ that can operate in two different modes: FIFO (First-In-First-Out) and LIFO (Last-In-First-Out). 
+This queue uses a linked list structure, allowing dynamic memory allocation to handle an unlimited number of elements without a fixed size constraint.
+**************************/
 #ifndef QUEUE_H
 #define QUEUE_H
 
